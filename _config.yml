@@ -1,0 +1,21 @@
+# Site settings
+title: Llama Drama
+header-img: img/home-bg.png
+email: laamia.islam@gmail.com
+copyright_name: laamia
+description: > # this means to ignore newlines until "baseurl:"
+  The life and times of a llama with coding drama
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  laamia
+learn_profile: laamia
+email_username: laamia.islam@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
