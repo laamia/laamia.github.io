@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "I'm a maker"
+date:   2017-04-06 18:35:16 +0000
+---
+
+
+As a product manager, my team is comprised of numerous software engineers. I love my team and my role, but sometimes I feel like the only thing I'm really crafting is a spreadsheet, a diagram, an email, or meeting notes. I feel handicapped because I can't do the real work sometime.  I can never really make anything myself. I can conceptually figure out *why* something's broken or *how* we should develop something, but if I ever had to roll my sleeves up and *do it*...I'd be lost. I'm taking this course to become self-sustaining, truly independent, and a full-stack artist.
