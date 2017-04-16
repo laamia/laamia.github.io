@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tic Tac Toe and Scraping"
-date:   2017-04-16 00:46:29 +0000
+date:   2017-04-15 20:46:30 -0400
 ---
 
 
