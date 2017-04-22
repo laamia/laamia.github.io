@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Glassdoor Scraper"
-date:   2017-04-22 01:17:45 +0000
+date:   2017-04-21 21:17:45 -0400
 ---
 
 
